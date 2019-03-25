@@ -1,8 +1,11 @@
 //#include <stdio.h>
 
-void main (void){
-//prona
+void main (){
+//pron
 //q
 
 // aver si es asi?
+
+modificando
+
 }
